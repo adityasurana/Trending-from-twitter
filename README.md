@@ -26,4 +26,6 @@ Project contain Twitter.ipynb file that teach how to access twitter using twitte
 
 We can search for trending tweets, hashtags, retweets, etc. using this project.
 
+This project teaches how to connect to twitter.
+
 # Created and managed by ADITYA SURANA
